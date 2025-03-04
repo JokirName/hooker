@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\maxro\\source\\repos\\hooker\\build\\output_inter\\microsoft\\STL\\std.obj",
+            "outputs": [
+                "C:\\Users\\maxro\\source\\repos\\hooker\\build\\output_inter\\microsoft\\STL\\std.ixx.ifc.dt.module.json",
+                "C:\\Users\\maxro\\source\\repos\\hooker\\build\\output_inter\\microsoft\\STL\\std.ixx.ifc.dt.d.json",
+                "C:\\Users\\maxro\\source\\repos\\hooker\\build\\output_inter\\microsoft\\STL\\std.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "std",
+                    "source-path": "d:\\vs-ide\\vc\\tools\\msvc\\14.43.34808\\modules\\std.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

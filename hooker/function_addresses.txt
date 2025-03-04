@@ -1,0 +1,5 @@
+BinaryProperties_GetValue -> 7ff8050529f0
+CreateInterface -> 7ff8052026c0
+GetResourceManifestCount -> 7ff805205470
+GetResourceManifests -> 7ff805205480
+InstallSchemaBindings -> 7ff8052056d0
